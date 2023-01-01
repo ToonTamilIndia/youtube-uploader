@@ -84,6 +84,10 @@ If you did everything correctly, the bot should be running. Go do `/start` to se
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+### deploying to Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/4FHXmB?referralCode=bFjdgg)
+
 ### Development Status
 
 This project is actively maintained and will continue so until I'm tired of it.
