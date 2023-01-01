@@ -2,41 +2,42 @@
   "name": "Youtube Upload Bot",
   "description": "Telegram to YouTube Uploader Bot",
   "repository": "https://github.com/odysseusmax/utube",
-  "logo": "https://github.com/odysseusmax/utube/blob/master/ss/logo.jpeg",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6RA7TbLUeKTDfQeoHF8z2-taWZ7ToOuVcPyCoXIPcznID14xeQuWJXksEOG_AlALUhAXWGzcrMik08s_V1DXBRmb5bpEUs0aO3nkfEKE2lkmuWi-Jo4vLyPI1mVDqQODsx34RD4TVXOMFtQDQen33qwLRnCMqHdOiAYC4tNBKv_fQN4XmY16DiWd/s922/Screenshot_2022-12-04-09-19-50-463-edit_com.camerasideas.trimmer.jpg",
   "keywords": ["telegram", "youtube", "uploader"],
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": ""
+      "value": "1913469727:AAEDFk2juwsuDpX7YMXfmxMtDQxwVYX-e-M"
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
-      "value": "youtubeitbot",
+      "value": "YouTubevideocbot",
       "required":false
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "7331082"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value":
+      "5d4a78eeed44e18e97bc4ce58e397e15"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "988033411341-9uvv9eana2ctrih3ech4ftn05f54pcuv.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "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"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "1137065263"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
-      "value": "",
+      "value": "1137065263",
       "required":false
     },
     "VIDEO_DESCRIPTION": {
